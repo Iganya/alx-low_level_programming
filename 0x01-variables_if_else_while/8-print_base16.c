@@ -2,6 +2,7 @@
 /**
  * main - entry point
  * Description: Print base 16 in reverse aphabet
+ * Return: 0
  */
 int main(void)
 

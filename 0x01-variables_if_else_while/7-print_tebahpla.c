@@ -6,7 +6,6 @@
  * Description: prints reverse of alphabets
  * Return: 0
  */
-
 int main(void)
 {
 	char c = 'z';
