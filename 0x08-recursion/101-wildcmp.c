@@ -66,6 +66,6 @@ if (s1[a] != '\0')
 if (s2[b] != '\0')
 	return (checkLast(s2, b));
 
-return (1);
+return (0);
 
 }
